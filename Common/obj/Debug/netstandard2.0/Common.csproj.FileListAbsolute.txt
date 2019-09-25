@@ -1,0 +1,9 @@
+C:\Users\rael0\source\repos\rancsharp\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\rael0\source\repos\rancsharp\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\rael0\source\repos\rancsharp\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\rael0\source\repos\rancsharp\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\rael0\source\repos\rancsharp\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\rael0\source\repos\rancsharp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\rael0\source\repos\rancsharp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\rael0\source\repos\rancsharp\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\rael0\source\repos\rancsharp\Common\obj\Debug\netstandard2.0\Common.pdb
